@@ -37,7 +37,7 @@
 </p>--!>
 
 <img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
-
+</br>
 - 🔭 I’m currently working on WEB/Mobile app with FLUTTER
 - 🌱 I’m currently learning Express & NODE js
 - 👯 I’m looking to collaborate on Making apps with flutter.
