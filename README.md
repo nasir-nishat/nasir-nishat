@@ -38,10 +38,10 @@
 
 <img src="http://views.whatilearened.today/views/github/MrStanDu33/views.svg"/>
 </br>
-- 🔭 I’m currently working on WEB/Mobile app with FLUTTER
-- 🌱 I’m currently learning Express & NODE js
-- 👯 I’m looking to collaborate on Making apps with flutter.
-- 🤔 I’m looking for help with Enterprise style production backend.
-- 💬 Ask me about Flutter/React/Dart/Express
-- 📫 How to reach me: nishatnasir00@gmail.com
-- ⚡ Fun fact: I am very unproductively productive
+- 🔭 I’m currently working on WEB/Mobile app with FLUTTER</br>
+- 🌱 I’m currently learning Express & NODE js</br>
+- 👯 I’m looking to collaborate on Making apps with flutter.</br>
+- 🤔 I’m looking for help with Enterprise style production backend.</br>
+- 💬 Ask me about Flutter/React/Dart/Express</br>
+- 📫 How to reach me: nishatnasir00@gmail.com</br>
+- ⚡ Fun fact: I am very unproductively productive</br>
