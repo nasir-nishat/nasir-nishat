@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nishat Nasir</h1>
-<h3 align="center">An enthusiastic learner</h3><!--   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=MrStanDu33&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/> -->
+<h3 align="center">An enthusiastic learner</h3>
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-23A9F2?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="nishat-nasir" /> </p>
 
