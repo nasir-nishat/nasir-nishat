@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Flutter, React**
 
-- 📫 How to reach me **nishatnasir@gmail.com**
+- 📫 How to reach me **nishatnasir00@gmail.com**
 
 - ⚡ Fun fact **I used to have a handle on life, but then it broke.**
 
