@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **Flutter**
 
-- 🌱 I’m currently learning **PostgresSql**
-
 - 👯 I’m looking to collaborate on **Express js/ Flutter**
 
 - 🤝 I’m looking for help with **express js**
@@ -17,8 +15,6 @@
 - 💬 Ask me about **Flutter, React**
 
 - 📫 How to reach me **nishatnasir00@gmail.com**
-
-- ⚡ Fun fact **I used to have a handle on life, but then it broke.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
