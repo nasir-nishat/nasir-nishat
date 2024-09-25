@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Nasir Nishat👋</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="nishat-nasir" /> </p> <img align="right" height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<p align="left"><img align="right" height="20" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> <img src="https://komarev.com/ghpvc/?username=nishat-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="nishat-nasir" /> </p> 
 <h3 align="center">Empowering Businesses Through Technology and Innovation</h3>
 <!--  -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="nishat-nasir" /> </p> <img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdsMDUxNWNzeDIzdHQxMTFra2Z2bDIxdTkwbW40YXN0ZzluYTJseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1iNIkQBAwEkUuTpikf/giphy.webp"/>
