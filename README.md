@@ -6,9 +6,13 @@
 
 
 🔧 Building Mobile and web applications with Flutter, Redux, GetX, and GoRouter
+
 🌍 Developing software solutions for Retail businesses, E-Commerce, and community platforms
+
 🤖 AI research, chatbot training (GPT/BERT), focusing on psychological support and the future of work
+
 💡 No-code tool development for easy app creation, using Supabase as the backend
+
 🎓 Mentoring and training young professionals in digital marketing and app development
 
 <h1></h1>
