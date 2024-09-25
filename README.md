@@ -7,7 +7,6 @@
 I specialize in developing robust apps using Flutter, Redux, GetX, and GoRouter, focusing on seamless user experiences and scalable architectures.
 <be>
 
-
 <b>🌍 Tailored Solutions for Retail & E-Commerce</b><br>
 Transforming traditional businesses into digital powerhouses through customized software solutions, whether for retail stores, e-commerce platforms, or community-driven apps.
 <be>
