@@ -3,7 +3,7 @@
 <h3 align="center">Empowering Businesses Through Technology and Innovation</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="nishat-nasir" /> </p> <img align="right" height="200" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
-🔧 Building Dynamic Mobile and Web Applications
+<b>🔧 Building Dynamic Mobile and Web Applications</b>
 I specialize in developing robust apps using Flutter, Redux, GetX, and GoRouter, focusing on seamless user experiences and scalable architectures.
 
 🌍 Tailored Solutions for Retail & E-Commerce
@@ -94,13 +94,6 @@ Passionate about mentoring aspiring professionals, I help train young talent in 
   </a>&nbsp;&nbsp;
 
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishat-nasir&show_icons=true&locale=en&layout=compact" alt="nishat-nasir" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishat-nasir&show_icons=true&locale=en" alt="nishat-nasir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishat-nasir&" alt="nishat-nasir" /></p>
 
 
 <h3 align="left">My GitHub Stats:</h3> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishat-nasir&show_icons=true&locale=en&layout=compact" alt="nishat-nasir" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishat-nasir&show_icons=true&locale=en" alt="nishat-nasir" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishat-nasir&" alt="nishat-nasir" /></p>
