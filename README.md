@@ -1,8 +1,8 @@
 <h1 align="center">Hello, I'm Nasir Nishat👋</h1>
 
 <h3 align="center">Empowering Businesses Through Technology and Innovation</h3>
-<iframe src="https://giphy.com/embed/1iNIkQBAwEkUuTpikf" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-hack-hacking-1iNIkQBAwEkUuTpikf">via GIPHY</a></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="nishat-nasir" /> </p> <img align="right" height="200" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="nishat-nasir" /> </p> <img align="right" height="200" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="nishat-nasir" /> </p> <img align="right" height="200" src="https://giphy.com/embed/1iNIkQBAwEkUuTpikf"/>
 <b>🔧 Building Dynamic Mobile and Web Applications</b><br> I specialize in developing robust apps using Flutter, Redux, GetX, and GoRouter, focusing on seamless user experiences and scalable architectures.
 <br>
 
