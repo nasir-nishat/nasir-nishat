@@ -102,4 +102,4 @@
 </p>
 
 
-<h3 align="left">My GitHub Stats:</h3> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishat-nasir&show_icons=true&locale=en&layout=compact" alt="nishat-nasir" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishat-nasir&show_icons=true&locale=en" alt="nishat-nasir" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishat-nasir&" alt="nishat-nasir" /></p>
+<!---<h3 align="left">My GitHub Stats:</h3> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishat-nasir&show_icons=true&locale=en&layout=compact" alt="nishat-nasir" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishat-nasir&show_icons=true&locale=en" alt="nishat-nasir" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishat-nasir&" alt="nishat-nasir" /></p> --->
