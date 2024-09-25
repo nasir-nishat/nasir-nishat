@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Nishat Nasir 👋</h1>
+<h1 align="center">Hello, I'm Nasir Nishat👋</h1>
 
 <h3 align="center">Empowering Businesses Through Technology and Innovation</h3>
 
