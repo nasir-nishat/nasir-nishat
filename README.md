@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="nishat-nasir" /> </p> <img align="right" height="200" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <b>🔧 Building Dynamic Mobile and Web Applications</b><br>
-  I specialize in developing robust apps using Flutter, Redux, GetX, and GoRouter, focusing on seamless user experiences and scalable architectures.
+I specialize in developing robust apps using Flutter, Redux, GetX, and GoRouter, focusing on seamless user experiences and scalable architectures.
 <be>
-
+  
 <b>🌍 Tailored Solutions for Retail & E-Commerce</b><br>
 Transforming traditional businesses into digital powerhouses through customized software solutions, whether for retail stores, e-commerce platforms, or community-driven apps.
 <be>
