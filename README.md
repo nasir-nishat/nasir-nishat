@@ -5,17 +5,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="nishat-nasir" /> </p> <img align="right" height="200" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <b>🔧 Building Dynamic Mobile and Web Applications</b><br> I specialize in developing robust apps using Flutter, Redux, GetX, and GoRouter, focusing on seamless user experiences and scalable architectures.
 
+
 <br>
 <b>🌍 Tailored Solutions for Retail & E-Commerce</b><br> Transforming traditional businesses into digital powerhouses through customized software solutions, whether for retail stores, e-commerce platforms, or community-driven apps.
+
 
 <br>
 <b>🤖 Pioneering AI Research & Chatbot Development</b><br> With hands-on experience training AI models like GPT and BERT, I focus on enhancing psychological support tools and exploring the future of work with conversational AI.
 
+
 <br>
 <b>💡 No-Code Development Advocate</b><br> Creating no-code tools that empower non-technical users to build applications effortlessly, leveraging Supabase as a solid backend solution.
 
+
 <br>
 <b>🎓 Mentoring the Next Generation</b><br> Passionate about mentoring aspiring professionals, I help train young talent in digital marketing, app development, and AI technologies.
+
 
 <br>
 <h1></h1>
