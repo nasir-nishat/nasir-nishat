@@ -1,27 +1,25 @@
-<h1 align="center">Hi 👋, I'm Nishat Nasir</h1>
-<h3 align="center">An enthusiastic learner</h3>
-<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+<h1 align="center">Hello, I'm Nishat Nasir 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="nishat-nasir" /> </p>
+<h3 align="center">Empowering Businesses Through Technology and Innovation</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="nishat-nasir" /> </p> <img align="right" height="200" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+🔧 Building Dynamic Mobile and Web Applications
+I specialize in developing robust apps using Flutter, Redux, GetX, and GoRouter, focusing on seamless user experiences and scalable architectures.
 
-🔧 Building Mobile and web applications with Flutter, Redux, GetX, and GoRouter
+🌍 Tailored Solutions for Retail & E-Commerce
+Transforming traditional businesses into digital powerhouses through customized software solutions, whether for retail stores, e-commerce platforms, or community-driven apps.
 
-🌍 Developing software solutions for Retail businesses, E-Commerce, and community platforms
+🤖 Pioneering AI Research & Chatbot Development
+With hands-on experience training AI models like GPT and BERT, I focus on enhancing psychological support tools and exploring the future of work with conversational AI.
 
-🤖 AI research, chatbot training (GPT/BERT), focusing on psychological support and the future of work
+💡 No-Code Development Advocate
+Creating no-code tools that empower non-technical users to build applications effortlessly, leveraging Supabase as a solid backend solution.
 
-💡 No-code tool development for easy app creation, using Supabase as the backend
-
-🎓 Mentoring and training young professionals in digital marketing and app development
-
+🎓 Mentoring the Next Generation
+Passionate about mentoring aspiring professionals, I help train young talent in digital marketing, app development, and AI technologies.
 <h1></h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/nasir-nishat" target="_blank" rel="noopener noreferrer">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nasir Nishat LinkedIn" height="30" width="40" />
-</a>
-</p>
+
+<h3 align="left">Let's Connect:</h3> <p align="left"> <a href="https://www.linkedin.com/in/nasir-nishat" target="_blank" rel="noopener noreferrer"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nasir Nishat LinkedIn" height="30" width="40" /> </a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -103,3 +101,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishat-nasir&show_icons=true&locale=en" alt="nishat-nasir" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishat-nasir&" alt="nishat-nasir" /></p>
+
+
+<h3 align="left">My GitHub Stats:</h3> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishat-nasir&show_icons=true&locale=en&layout=compact" alt="nishat-nasir" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishat-nasir&show_icons=true&locale=en" alt="nishat-nasir" /></p> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishat-nasir&" alt="nishat-nasir" /></p>
