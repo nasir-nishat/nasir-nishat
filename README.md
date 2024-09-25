@@ -5,15 +5,12 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishat-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="nishat-nasir" /> </p>
 
 
-- 🔭 I’m currently working on **Flutter**
+🔧 Building Mobile and web applications with Flutter, Redux, GetX, and GoRouter
+🌍 Developing software solutions for Retail businesses, E-Commerce, and community platforms
+🤖 AI research, chatbot training (GPT/BERT), focusing on psychological support and the future of work
+💡 No-code tool development for easy app creation, using Supabase as the backend
+🎓 Mentoring and training young professionals in digital marketing and app development
 
-- 👯 I’m looking to collaborate on **Express js/ Flutter**
-
-- 🤝 I’m looking for help with **express js**
-
-- 💬 Ask me about **Flutter, React**
-
-- 📫 How to reach me **nishatnasir00@gmail.com**
 <h1></h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
