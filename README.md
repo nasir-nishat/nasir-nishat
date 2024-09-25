@@ -8,20 +8,20 @@
 
 <br>
 <b>🌍 Tailored Solutions for Retail & E-Commerce</b><br> Transforming traditional businesses into digital powerhouses through customized software solutions, whether for retail stores, e-commerce platforms, or community-driven apps.
-
+<br>
 
 <br>
 <b>🤖 Pioneering AI Research & Chatbot Development</b><br> With hands-on experience training AI models like GPT and BERT, I focus on enhancing psychological support tools and exploring the future of work with conversational AI.
-
+<br>
 
 <br>
 <b>💡 No-Code Development Advocate</b><br> Creating no-code tools that empower non-technical users to build applications effortlessly, leveraging Supabase as a solid backend solution.
 
-
+<br>
 <br>
 <b>🎓 Mentoring the Next Generation</b><br> Passionate about mentoring aspiring professionals, I help train young talent in digital marketing, app development, and AI technologies.
 
-
+<br>
 <br>
 <h1></h1>
 
