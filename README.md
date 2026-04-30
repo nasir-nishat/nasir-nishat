@@ -25,9 +25,17 @@ Next.js · React · Node.js
 ```
 
 **Tools I trust daily**
-
-[![dart](https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg)](https://dart.dev)&nbsp; [![flutter](https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)](https://flutter.dev)&nbsp; [![supabase](https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png)](https://supabase.com)&nbsp; [![firebase](https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg)](https://firebase.google.com)&nbsp; [![nextjs](https://cdn.worldvectorlogo.com/logos/nextjs-2.svg)](https://nextjs.org)&nbsp; [![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org)&nbsp; [![nodejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg)](https://nodejs.org)&nbsp; [![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com)&nbsp; [![figma](https://www.vectorlogo.zone/logos/figma/figma-icon.svg)](https://www.figma.com)
-
+<p>
+  <a href="https://dart.dev"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="24" style="margin:0 6px;"/></a>
+  <a href="https://flutter.dev"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="24" style="margin:0 6px;"/></a>
+  <a href="https://supabase.com"><img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="24" style="margin:0 6px;"/></a>
+  <a href="https://firebase.google.com"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="24" style="margin:0 6px;"/></a>
+  <a href="https://nextjs.org"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="24" style="margin:0 6px;"/></a>
+  <a href="https://reactjs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="24" style="margin:0 6px;"/></a>
+  <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="24" style="margin:0 6px;"/></a>
+  <a href="https://git-scm.com"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="24" style="margin:0 6px;"/></a>
+  <a href="https://www.figma.com"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="24" style="margin:0 6px;"/></a>
+</p>
 
 *Not for hire. Not for freelance. Just here to make sure your business doesn't need a full-time person to do a five-minute job.*
 
