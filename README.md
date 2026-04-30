@@ -24,7 +24,7 @@ Next.js · React · Node.js
 ### Tools I trust daily
 
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Claude_icon.svg" height="24" style="margin:0 4px;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" height="24" style="margin:0 4px;"/>
   <img src="https://assets.stickpng.com/thumbs/64b3ecd7fbb9f916f98333d6.png" height="24" style="margin:0 4px;"/>
   <img src="https://seeklogo.com/images/A/anthropic-logo-D4F5EF63AF-seeklogo.com.png" height="24" style="margin:0 4px;"/>
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="24" style="margin:0 4px;"/>
