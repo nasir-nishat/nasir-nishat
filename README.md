@@ -27,7 +27,7 @@ Next.js · React · Node.js
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" height="24" style="margin:0 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/openclaw.webp" height="24" style="margin:0 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ollama.webp" height="24" style="margin:0 4px;"/>
-  <img src="https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-5.svg" height="24" style="margin:0 4px;"/>
+  <img src="https://brandlogos.net/wp-content/uploads/2025/04/cursor_code_editor-logo_brandlogos.net_r1yfy.png" height="24" style="margin:0 4px;"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Qwen_logo.svg/500px-Qwen_logo.svg.png?_=20250327025131" height="24" style="margin:0 4px;"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="24" style="margin:0 4px;"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="24" style="margin:0 4px;"/>
