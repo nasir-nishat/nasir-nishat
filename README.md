@@ -1,17 +1,23 @@
 ### Nasir Nishat
 
+<img align="right" width="180" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="automate all the things"/>
+
 I make businesses stop doing the same thing manually for the 47th time this week.
 
-**Who calls me:** mvp builders, e‑commerce stores, hotels, Airbnb operators, PMS platforms, CRMs — basically anyone who’s tired of their software not talking to each other.
+**Who calls me:** mvp builders, e‑commerce stores, hotels, Airbnb operators, PMS platforms, CRMs — basically anyone who's tired of their software not talking to each other.
 
-**What I actually fix:** the stuff that’s “just how we do it here” but is quietly costing thousands in wasted hours every month.
+**What I actually fix:** the stuff that's "just how we do it here" but is quietly costing thousands in wasted hours every month.
+
+---
 
 **What that looks like in practice**
 
 - Booking pipelines that sync across platforms *(without a human hitting refresh)*  
-- CRMs that update themselves like they’re supposed to  
+- CRMs that update themselves like they're supposed to  
 - Inventory, pricing & reports that run at 3 am — no babysitter required  
-- Business logic that used to live in Dave’s head, now lives in a system *(Dave can finally take a vacation)*  
+- Business logic that used to live in Dave's head, now lives in a system *(Dave can finally take a vacation)*  
+
+---
 
 **How I build** *(aka: the chaos that somehow works)*
 
@@ -21,6 +27,9 @@ Llama · Qwen · Gemma · LM Studio  ← the local model gang
 Flutter · Supabase · Firebase
 Next.js · React · Node.js
 ```
+
+---
+
 ### Tools I trust daily
 
 <p>
