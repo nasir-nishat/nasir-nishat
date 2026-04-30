@@ -1,6 +1,6 @@
 ### Nasir Nishat
 
-<img align="right" width="180" src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" alt="automate all the things"/>
+<img align="right" width="180" src="assets/automate.gif" alt="automate"/>
 
 I make businesses stop doing the same thing manually for the 47th time this week.
 
