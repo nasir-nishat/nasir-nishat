@@ -1,6 +1,6 @@
 ### Nasir Nishat
 
-<img align="right" width="180" src="assets/automate.gif" alt="automate"/>
+<img align="right" width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE5eGtsbm9uamY4cm8zcG1kOXlrOWlzcmFwaWVtYzU5Zms1NWI5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7rbs2alIt4RaymJ1e5/giphy.gif"/>
 
 I make businesses stop doing the same thing manually for the 47th time this week.
 
@@ -12,10 +12,10 @@ I make businesses stop doing the same thing manually for the 47th time this week
 
 **What that looks like in practice**
 
-- Booking pipelines that sync across platforms *(without a human hitting refresh)*  
-- CRMs that update themselves like they're supposed to  
-- Inventory, pricing & reports that run at 3 am — no babysitter required  
-- Business logic that used to live in Dave's head, now lives in a system *(Dave can finally take a vacation)*  
+- Booking pipelines that sync across platforms *(without a human hitting refresh)*
+- CRMs that update themselves like they're supposed to
+- Inventory, pricing & reports that run at 3 am — no babysitter required
+- Business logic that used to live in Dave's head, now lives in a system *(Dave can finally take a vacation)*
 
 ---
 
