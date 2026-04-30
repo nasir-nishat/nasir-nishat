@@ -92,4 +92,7 @@ Next.js · React · Node.js
 
 *Not for hire. Not for freelance. Just here to make sure your business doesn’t need a full‑time person to do a five‑minute job.*
 
-[![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://www.linkedin.com/in/nasir-nishat)&nbsp; ![views](https://komarev.com/ghpvc/?username=nishat-nasir&color=363636&style=flat&label=views)
+<a href="https://www.linkedin.com/in/nasir-nishat">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="24"/>
+</a>&nbsp;
+![views](https://komarev.com/ghpvc/?username=nishat-nasir&color=363636&style=flat&label=views)
