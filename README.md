@@ -26,8 +26,8 @@ Next.js · React · Node.js
 <p>
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Claude_AI_symbol.svg" height="24" style="margin:0 4px;"/>
   <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/openclaw.webp" height="24" style="margin:0 4px;"/>
-  <img src="https://seeklogo.com/images/A/anthropic-logo-D4F5EF63AF-seeklogo.com.png" height="24" style="margin:0 4px;"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="24" style="margin:0 4px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/webp/ollama.webp" height="24" style="margin:0 4px;"/>
+  <img src="https://ptht05hbb1ssoooe.public.blob.vercel-storage.com/assets/brand/brand-logo-2.svg" height="24" style="margin:0 4px;"/>
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="24" style="margin:0 4px;"/>
   <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" height="24" style="margin:0 4px;"/>
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="24" style="margin:0 4px;"/>
