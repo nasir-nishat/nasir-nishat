@@ -2,7 +2,7 @@
 
 <img align="right" width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE5eGtsbm9uamY4cm8zcG1kOXlrOWlzcmFwaWVtYzU5Zms1NWI5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7rbs2alIt4RaymJ1e5/giphy.gif"/>
 
-I make businesses stop doing the same thing manually for the 47th time this week.
+Your team didn't get hired to copy-paste. Let's fix that with AI automations in your business.
 
 **Who calls me:** mvp builders, e‑commerce stores, hotels, Airbnb operators, PMS platforms, CRMs — basically anyone who's tired of their software not talking to each other.
 
