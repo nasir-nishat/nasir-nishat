@@ -4,7 +4,7 @@
 
 Your team didn't get hired to copy-paste. Let's fix that with AI automations in your business.
 
-**Who calls me:** mvp builders, e‑commerce stores, hotels, Airbnb operators, PMS platforms, CRMs — basically anyone who's tired of their software not talking to each other.
+**Who calls me:** AI intigration in their business, mvp builders, e‑commerce stores, hotels, Airbnb operators, PMS platforms, CRMs — basically anyone who's tired of their software not talking to each other.
 
 **What I actually fix:** the stuff that's "just how we do it here" but is quietly costing thousands in wasted hours every month.
 
