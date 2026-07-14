@@ -1,34 +1,65 @@
-### Nasir Nishat
+### Nasir Nishat — AI Product Engineer
 
 <img align="right" width="180" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmE5eGtsbm9uamY4cm8zcG1kOXlrOWlzcmFwaWVtYzU5Zms1NWI5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7rbs2alIt4RaymJ1e5/giphy.gif"/>
 
-Your team didn't get hired to copy-paste. Let's fix that with AI automations in your business.
+> I replaced myself with an agent. It's doing better.
 
-**Who calls me:** AI intigration in their business, mvp builders, e‑commerce stores, hotels, Airbnb operators, PMS platforms, CRMs — basically anyone who's tired of their software not talking to each other.
 
-**What I actually fix:** the stuff that's "just how we do it here" but is quietly costing thousands in wasted hours every month.
+## Who calls me
 
----
+Hotels who are tired of overbooking chaos. Airbnb operators running 12 listings from a spreadsheet held together by prayers. E-commerce stores where "the system" is actually Karen copy-pasting since 2019. MVP builders who want to ship before their investors change their minds. CRMs that haven't talked to each other since the Obama era.
 
-**What that looks like in practice**
-
-- Booking pipelines that sync across platforms *(without a human hitting refresh)*
-- CRMs that update themselves like they're supposed to
-- Inventory, pricing & reports that run at 3 am — no babysitter required
-- Business logic that used to live in Dave's head, now lives in a system *(Dave can finally take a vacation)*
+**Basically:** if your software has trust issues, commitment issues, or just refuses to work past 5pm — that's my problem now.
 
 ---
 
-**How I build** *(aka: the chaos that somehow works)*
+## What I actually fix
 
-```
-Claude Code · Cursor · Claude API · OpenClaw
-Llama · Qwen · Gemma · LM Studio  ← the local model gang
-Flutter · Supabase · Firebase
-Next.js · React · Node.js
-```
+That one process everyone does manually because *"that's just how we do it here"* — yeah, that one. The one costing thousands in wasted hours that nobody tracks because tracking it would mean admitting it's a problem.
+
+I fix that. Then I automate it. Then I go to sleep while it runs.
 
 ---
+
+## What that looks like
+
+- Booking pipelines that sync themselves *(the refresh button has been laid off)*
+- CRMs that update like they're actually trying
+- Pricing, inventory & reports running at 3am — no babysitter, no passive-aggressive Slack ping
+- Business logic that lived in Dave's head for 6 years → now lives in a system *(Dave is on a beach. You're welcome, Dave.)*
+
+---
+
+## How I build
+
+| Layer | Stack |
+|---|---|
+| 🧠 Brain | Claude API · Cursor · Claude Code |
+| 🏠 Local Model Gang | Llama · Qwen · Gemma · LM Studio |
+| 📱 Mobile / Web | Flutter · Next.js · React · Node.js |
+| 🗄️ Data / Backend | Supabase · Firebase |
+
+*Yes I use local models. No your data doesn't go to a server farm in a country you can't pronounce.*
+
+---
+
+## Fun facts
+
+- My agents work weekends without a passive-aggressive out-of-office reply
+- I automate jobs before the job description is written
+- I make middle managers nervous (unintentionally) (maybe)
+- Zero agents have ever asked me for a raise
+
+---
+
+## Find me
+
+*(I'm usually awake. My agents definitely are.)*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nasir--nishat-blue)](https://linkedin.com/in/nasir-nishat)
+[![GitHub](https://img.shields.io/badge/GitHub-nasir--nishat-black)](https://github.com/nasir-nishat)
+[![Website](https://img.shields.io/badge/Website-nasirnishat.com-purple)](https://nasirnishat.com)
+[![Email](https://img.shields.io/badge/Email-nasirnishat00@gmail.com-red)](mailto:nasirnishat00@gmail.com)
 
 ### Tools I trust daily
 
