@@ -7,8 +7,8 @@
 
 ## Who calls me
 
-- 🏨 Hotels tired of overbooking chaos and 3am panic emails
-- 🏠 Airbnb operators running 12 listings from a spreadsheet held together by prayers
+- 🏨 Hotels tired of overbooking chaos and 3 am panic messages
+- 🏠 Airbnb operators running 10+ listings from a spreadsheet held together by prayers
 - 🛒 E-commerce stores where "the system" is actually Karen copy-pasting since 2019
 - 🚀 MVP builders who want to ship before their investors change their minds
 - 🔗 PMS platforms & CRMs that haven't talked to each other since the Obama era
